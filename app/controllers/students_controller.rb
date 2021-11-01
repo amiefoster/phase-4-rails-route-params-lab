@@ -10,4 +10,8 @@ class StudentsController < ApplicationController
     render json: student
   end
 
+  def index
+    
+  end
+
 end
